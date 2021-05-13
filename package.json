@@ -8,8 +8,8 @@
     "commit:signed": "cz -S"
   },
   "devDependencies": {
-    "@commitlint/cli": "12.1.1",
-    "@commitlint/config-conventional": "12.1.1",
+    "@commitlint/cli": "12.1.4",
+    "@commitlint/config-conventional": "12.1.4",
     "commitizen": "4.2.3",
     "cz-conventional-commit": "1.0.6",
     "husky": "6.0.0"
