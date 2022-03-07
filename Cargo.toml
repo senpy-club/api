@@ -21,7 +21,7 @@ rand = "0.8.3"
 dotenv = "0.15.0"
 
 # Web
-actix-web = { version = "3.3.2", features = ["rustls"] }
+actix-web = { version = "3.3.3", features = ["rustls"] }
 qstring = "0.7.2"
 actix-cors = "0.5.4"
 actix-ratelimit = "0.3.1"
