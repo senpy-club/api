@@ -23,5 +23,5 @@ dotenv = "0.15.0"
 # Web
 actix-web = { version = "3.3.2", features = ["rustls"] }
 qstring = "0.7.2"
-actix-cors = "0.5.4"
+actix-cors = "0.6.1"
 actix-ratelimit = "0.3.1"
